@@ -1,5 +1,5 @@
-git add -A
-git commit -m "updated styles and completed comments"
+git add .
+git commit -am "Testing updates"
 git push origin master 
 git push heroku master
 
